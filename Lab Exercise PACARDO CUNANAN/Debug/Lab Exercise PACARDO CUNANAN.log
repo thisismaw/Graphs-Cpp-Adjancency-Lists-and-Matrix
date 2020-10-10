@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\pacar\source\repos\Lab Exercise PACARDO CUNANAN\Lab Exercise PACARDO CUNANAN\Source.cpp(24,12): warning C4101: 'j': unreferenced local variable
+C:\Users\pacar\source\repos\Lab Exercise PACARDO CUNANAN\Lab Exercise PACARDO CUNANAN\Source.cpp(40,12): warning C4101: 'i': unreferenced local variable
+C:\Users\pacar\source\repos\Lab Exercise PACARDO CUNANAN\Lab Exercise PACARDO CUNANAN\Source.cpp(58,9): warning C4101: 'i': unreferenced local variable
+  Lab Exercise PACARDO CUNANAN.vcxproj -> C:\Users\pacar\source\repos\Lab Exercise PACARDO CUNANAN\Debug\Lab Exercise PACARDO CUNANAN.exe
